@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Distribution / packaging
+build/
+dist/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Environments
+Env-*/
+
+# Log files
+*.log
+
+# Config files
+ini/config.ini
