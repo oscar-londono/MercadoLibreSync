@@ -1,0 +1,23 @@
+##################################################
+# Config File                                    #
+##################################################
+
+[GENERAL]
+APP_ID = 
+SECRET_KEY = 
+REDIRECT_URI = 
+SITE_ID = 
+SELLER_ID1 = 
+SELLER_ID2 = 
+
+[SERVER_WEB]
+BD_HOST = 
+BD_USER = 
+BD_PASSWORD = 
+BD_NAME = 
+
+[SERVER_LOCAL]
+BD_HOST = 
+BD_USER = 
+BD_PASSWORD = 
+BD_NAME = 
